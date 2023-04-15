@@ -9,8 +9,3 @@
 
 <p>Project preview</p>
 ![](Animation.mp4)
-
-
-
-
-# socialmedia-with-react
