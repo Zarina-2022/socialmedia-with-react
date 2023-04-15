@@ -1,0 +1,10 @@
+Dependenties:
+-npm create-react-app .
+-MUI(material-ui):
+    * Default installation: npm install @mui/material @emotion/react @emotion/styled
+    * Material SVG icons: npm install @mui/icons-material
+        How to use:
+        import {HomeIcon} from '@mui/icons-material/Home';
+        return(
+            <HomeIcon /> 
+        )
