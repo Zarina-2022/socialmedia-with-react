@@ -8,4 +8,5 @@
 <p> - Google fonts - Roboto</p>
 
 <p>Project preview</p>
-![](Animation.mp4)
+
+https://user-images.githubusercontent.com/116963373/232237060-6c52b4e3-0827-4fc2-b0e2-8f00328c102c.mp4
